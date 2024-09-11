@@ -1,0 +1,22 @@
+{
+  "name": "avb",
+  "version": "0.1.0",
+  "description": "A system for vouch ur members !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vouch",
+    "discord",
+    "bot"
+  ],
+  "author": "Avada Kedavra",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "discord-api-types": "^0.37.100",
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5"
+  }
+}
